@@ -1,0 +1,70 @@
+commit 7f0ef0111593865051460175b71b78b28cad24ae (HEAD -> main, origin/main)
+Author: ithschristian <73963980+ithschristian@users.noreply.github.com>
+Date:   Thu Nov 26 09:43:07 2020 +0100
+
+    .gitignore.txt
+
+commit e01966d8be62a796ce8b158d33f56a6ed5246107
+Author: ithschristian <73963980+ithschristian@users.noreply.github.com>
+Date:   Thu Nov 26 09:39:00 2020 +0100
+
+    .gitignore.txt
+
+commit c3a9d972c3183ab7f0ebc52bbd55a968049a1252
+Author: ithschristian <73963980+ithschristian@users.noreply.github.com>
+Date:   Thu Nov 26 09:37:57 2020 +0100
+
+    ignorethisdocument.txt
+
+commit 4a88cf5a10b6def9329ba60a1c02c04baacf6d0b
+Author: ithschristian <73963980+ithschristian@users.noreply.github.com>
+Date:   Thu Nov 26 09:36:20 2020 +0100
+
+    README.md.txt
+
+commit edca1d33acc6841d4c2b7fb0c0593e77c5e2994c
+Merge: a42ed81 d9996f7
+Author: ithschristian <73963980+ithschristian@users.noreply.github.com>
+Date:   Thu Nov 26 09:32:06 2020 +0100
+
+    Merge https://github.com/ithschristian/git-vning into main
+
+commit a42ed81b6b5195eb0631246a61632926fbe61eeb
+Author: ithschristian <73963980+ithschristian@users.noreply.github.com>
+Date:   Thu Nov 26 09:13:28 2020 +0100
+
+    .gitignore.txt
+
+commit d94eaf62fb48007604c1f1e5b2aefac6e3ed92d1
+Author: ithschristian <73963980+ithschristian@users.noreply.github.com>
+Date:   Thu Nov 19 22:31:53 2020 +0100
+
+    .gitignore
+
+commit d9996f7b317af042071c72d70884037a3a20cda8
+Author: ithschristian <73963980+ithschristian@users.noreply.github.com>
+Date:   Thu Nov 19 22:06:14 2020 +0100
+
+    Delete README.md
+
+:
+
+commit a42ed81b6b5195eb0631246a61632926fbe61eeb
+Author: ithschristian <73963980+ithschristian@users.noreply.github.com>
+Date:   Thu Nov 26 09:13:28 2020 +0100
+
+    .gitignore.txt
+
+commit d94eaf62fb48007604c1f1e5b2aefac6e3ed92d1
+Author: ithschristian <73963980+ithschristian@users.noreply.github.com>
+Date:   Thu Nov 19 22:31:53 2020 +0100
+
+    .gitignore
+
+commit d9996f7b317af042071c72d70884037a3a20cda8
+Author: ithschristian <73963980+ithschristian@users.noreply.github.com>
+Date:   Thu Nov 19 22:06:14 2020 +0100
+
+    Delete README.md
+
+:
